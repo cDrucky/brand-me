@@ -4,7 +4,7 @@ const Menu = () => {
 	return (
 		<Nav navbar>
 			<NavItem>
-				<NavLink href="/components/">Components</NavLink>
+				<NavLink href="/home/interests">My Interests</NavLink>
 			</NavItem>
 			<NavItem>
 				<NavLink href="https://github.com/cDrucky/brand-me">GitHub</NavLink>
