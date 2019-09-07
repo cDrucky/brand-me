@@ -21,8 +21,12 @@
 	"dependencies": {
 		"@emotion/babel-preset-css-prop": "^10.0.14",
 		"@emotion/core": "^10.0.14",
+		"@fortawesome/fontawesome-svg-core": "^1.2.22",
+		"@fortawesome/free-solid-svg-icons": "^5.10.2",
+		"@fortawesome/react-fontawesome": "^0.1.4",
 		"@reach/router": "^1.2.1",
 		"bootstrap": "^4.3.1",
+		"font-awesome": "^4.7.0",
 		"reac": "0.0.0",
 		"react": "^16.9.0",
 		"react-app-polyfill": "^1.0.2",
