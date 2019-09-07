@@ -7,7 +7,7 @@ const App = () => {
 	return (
 		<div>
 			<Router>
-				<Stage path="/" />
+				<Stage path="/home/*" />
 				<Resume path="/resume" />
 			</Router>
 		</div>
