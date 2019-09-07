@@ -1,13 +1,14 @@
 import React from "react"
 import { Router } from "@reach/router"
-import CustomComponent from "./components/CustomComponent";
-const App = () => {
+import Stage from "./components/common/Stage"
+import Resume from "./components/Resume"
 
+const App = () => {
 	return (
 		<div>
-			<h1>Foo Bar </h1>
 			<Router>
-				<CustomComponent path="/" />
+				<Stage path="/" />
+				<Resume path="/resume" />
 			</Router>
 		</div>
 	)
